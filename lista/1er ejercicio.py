@@ -3,6 +3,7 @@ aleatorios. De cada elemento de la lista diga si el elemento está por encima de
 del promedio o es igual al promedio de todos los números de la lista.'''
 import random
 from statistics import mode
+
 vec=[]
 a=0
 suma=0
