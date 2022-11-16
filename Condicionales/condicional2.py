@@ -1,5 +1,5 @@
-x = int (input('digite el primer numero'))
-y = int (input('digite el segundo numero'))
+x = int (input('digite el primer numero')),
+y = int (input('digite el segundo numero')),
 z = int (input('digite el tercer numero'))
 print()
 if x == y :
