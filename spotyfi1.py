@@ -21,7 +21,7 @@ def eliminar(nombre):
     del musica[nombre]
     return musica
 
-    
+
 def buscar_artista(lista):
     buscar=input('¿Que artista desea buscar?: ')
     for i in sorted(lista.keys()):
