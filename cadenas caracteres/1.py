@@ -13,6 +13,6 @@ def contar_letras(cadena):
             letras_unicas.add(caracter)
     # Devolver el tamaño del conjunto de letras únicas
     return len(letras_unicas)
-cadena = "Hola, Mundo!"
+cadena = "BBuenos diass"
 resultado = contar_letras(cadena)
 print("Hay", resultado, "letras del alfabeto en la cadena.")

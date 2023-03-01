@@ -4,9 +4,9 @@ def frase(cadena):
     # Inicializar la variable para el valor numerico
     sum = 0
     # Iterar sobre cada carácter en la cadena
-    for caracter in cadena:
+    for i in cadena:
         # Obtener el valor del código ASCII del carácter y sumarlo al valor numerico
-        sum += ord(caracter)
+        sum += ord(i)
     # Devolver el valor numerico
     return sum
 cadena = input("Ingresa una cadena: ")

@@ -1,4 +1,5 @@
-#Solicite cadena e imprimala en todas las formas posibles en cuanto a mayusculas y minusculas
+#Solicite cadena e imprimala en todas las formas posibles en cuanto a mayusculas 
+#y minusculas
 
 def imprimir_combinaciones(cadena, combinacion=""):
     # Si ya se han generado todas las combinaciones, imprimir la última
